@@ -1,0 +1,23 @@
+# jemdoc: menu{menu}{course.html}
+= R.Sivashankari
+
+== CSE1701:Problem Solving & Programmng
+
+~~~
+{Announcements: }
+:{17-07-2017} 
+- Welcome.
+~~~
+
+== Download
+- [Session1.pptx Session 1]
+
+== Grade Calculation
+~~~
+{}{table}{grading policy}
+8 Practice Sessions | 30\% ||
+10 Inlab Practice Sessions |  10\% ||
+6 Assessment Sessions | 40\% ||
+2 Challenging  Tasks |  20\% 
+~~~
+
